@@ -1,0 +1,40 @@
+08:58:28.885 [main] INFO  factory.BaseClass - *****Clicking on schedule a demo button*****
+08:58:28.978 [main] INFO  factory.BaseClass - *****Validating thankyou message*****
+08:59:30.117 [main] INFO  factory.BaseClass - *****Clearing the default location*****
+08:59:32.295 [main] INFO  factory.BaseClass - *****Passing location*****
+08:59:37.614 [main] INFO  factory.BaseClass - *****Selecting specialist*****
+08:59:46.095 [main] INFO  factory.BaseClass - *****Applying various filters*****
+08:59:58.498 [main] INFO  factory.BaseClass - *****Prints the doctor details*****
+09:00:04.736 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+09:00:04.777 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+09:00:11.209 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+09:00:11.261 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+09:00:17.676 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+09:00:17.701 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+16:37:29.632 [main] INFO  factory.BaseClass - *****Clicking on corporates option*****
+16:38:13.054 [main] INFO  factory.BaseClass - *****Filling all the fields with valid data*****
+16:38:15.278 [main] INFO  factory.BaseClass - *****Clicking on schedule a demo button*****
+16:38:15.556 [main] INFO  factory.BaseClass - *****Validating thankyou message*****
+16:39:59.168 [main] INFO  factory.BaseClass - *****Passing invalid phonenumber*****
+16:40:00.041 [main] INFO  factory.BaseClass - *****Validating demobutton*****
+16:41:25.890 [main] INFO  factory.BaseClass - *****Passing incorrect name*****
+16:41:26.819 [main] INFO  factory.BaseClass - *****Validating demobutton*****
+16:42:12.991 [main] INFO  factory.BaseClass - *****clicking on surgery button*****
+16:42:18.109 [main] INFO  factory.BaseClass - *****Printing surgerylist*****
+16:43:10.203 [main] INFO  factory.BaseClass - *****Clearing the default location*****
+16:43:12.555 [main] INFO  factory.BaseClass - *****Passing location*****
+16:43:18.000 [main] INFO  factory.BaseClass - *****Selecting specialist*****
+16:43:26.036 [main] INFO  factory.BaseClass - *****Applying various filters*****
+16:43:38.021 [main] INFO  factory.BaseClass - *****Prints the doctor details*****
+16:43:44.180 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:43:44.203 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+16:44:24.821 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:44:24.845 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+16:45:05.534 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:45:05.559 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+16:45:46.164 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:45:46.189 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+16:46:26.955 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:46:27.080 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+16:48:32.279 [main] INFO  factory.BaseClass - *****Passing invalid email id*****
+16:48:33.580 [main] INFO  factory.BaseClass - *****Validating demobutton*****

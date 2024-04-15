@@ -1,0 +1,58 @@
+16:43:35.586 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:43:35.623 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+17:13:08.315 [main] INFO  factory.BaseClass - *****Clicking on corporates option*****
+17:13:50.927 [main] INFO  factory.BaseClass - *****Filling all the fields with valid data*****
+17:13:52.564 [main] INFO  factory.BaseClass - *****Clicking on schedule a demo button*****
+17:13:52.604 [main] INFO  factory.BaseClass - *****Validating thankyou message*****
+17:15:40.547 [main] INFO  factory.BaseClass - *****Passing invalid phonenumber*****
+17:15:41.207 [main] INFO  factory.BaseClass - *****Validating demobutton*****
+17:16:56.660 [main] INFO  factory.BaseClass - *****Passing incorrect name*****
+17:16:57.285 [main] INFO  factory.BaseClass - *****Validating demobutton*****
+17:17:39.996 [main] INFO  factory.BaseClass - *****clicking on surgery button*****
+17:17:44.616 [main] INFO  factory.BaseClass - *****Printing surgerylist*****
+17:18:32.047 [main] INFO  factory.BaseClass - *****Clearing the default location*****
+17:18:34.124 [main] INFO  factory.BaseClass - *****Passing location*****
+17:18:39.267 [main] INFO  factory.BaseClass - *****Selecting specialist*****
+17:19:24.793 [main] INFO  factory.BaseClass - *****Applying various filters*****
+17:20:49.601 [main] INFO  factory.BaseClass - *****Prints the doctor details*****
+17:20:55.685 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+17:20:55.695 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+17:21:36.175 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+17:21:36.187 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+17:22:16.787 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+17:22:16.797 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+17:22:57.368 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+17:22:57.379 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+17:23:56.713 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+17:23:56.724 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+17:25:54.088 [main] INFO  factory.BaseClass - *****Passing invalid email id*****
+17:25:54.657 [main] INFO  factory.BaseClass - *****Validating demobutton*****
+17:30:30.084 [main] INFO  factory.BaseClass - *****Clicking on corporates option*****
+17:31:10.425 [main] INFO  factory.BaseClass - *****Filling all the fields with valid data*****
+17:31:12.052 [main] INFO  factory.BaseClass - *****Clicking on schedule a demo button*****
+17:31:12.095 [main] INFO  factory.BaseClass - *****Validating thankyou message*****
+17:32:55.069 [main] INFO  factory.BaseClass - *****Passing invalid phonenumber*****
+17:32:55.679 [main] INFO  factory.BaseClass - *****Validating demobutton*****
+17:34:17.988 [main] INFO  factory.BaseClass - *****Passing incorrect name*****
+17:34:18.578 [main] INFO  factory.BaseClass - *****Validating demobutton*****
+17:35:01.413 [main] INFO  factory.BaseClass - *****clicking on surgery button*****
+17:35:06.096 [main] INFO  factory.BaseClass - *****Printing surgerylist*****
+17:35:54.684 [main] INFO  factory.BaseClass - *****Clearing the default location*****
+17:35:56.782 [main] INFO  factory.BaseClass - *****Passing location*****
+17:36:01.914 [main] INFO  factory.BaseClass - *****Selecting specialist*****
+17:36:46.961 [main] INFO  factory.BaseClass - *****Applying various filters*****
+17:38:11.406 [main] INFO  factory.BaseClass - *****Prints the doctor details*****
+17:38:17.496 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+17:38:17.509 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+17:39:00.798 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+17:39:00.808 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+17:39:42.343 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+17:39:42.352 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+17:40:33.803 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+17:40:33.817 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+17:41:17.990 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+17:41:18.003 [main] INFO  factory.BaseClass - ***** Printing the first five doctor details *****
+17:43:16.278 [main] INFO  factory.BaseClass - *****Passing invalid email id*****
+17:43:16.819 [main] INFO  factory.BaseClass - *****Validating demobutton*****
+08:58:20.578 [main] INFO  factory.BaseClass - *****Clicking on corporates option*****
+08:58:26.570 [main] INFO  factory.BaseClass - *****Filling all the fields with valid data*****

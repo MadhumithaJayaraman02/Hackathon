@@ -1,0 +1,59 @@
+14:38:18.057 [main] INFO  factory.BaseClass - *****Selecting specialist*****
+14:39:03.745 [main] INFO  factory.BaseClass - *****Applying various filters*****
+14:40:29.073 [main] INFO  factory.BaseClass - *****Prints the doctor details*****
+15:19:42.947 [main] INFO  factory.BaseClass - *****clicking on surgery button*****
+15:19:47.707 [main] INFO  factory.BaseClass - *****Printing surgerylist*****
+15:42:58.996 [main] INFO  factory.BaseClass - *****clicking on surgery button*****
+15:43:33.580 [main] INFO  factory.BaseClass - *****Printing surgerylist*****
+15:44:24.296 [main] INFO  factory.BaseClass - *****Clearing the default location*****
+15:44:26.411 [main] INFO  factory.BaseClass - *****Passing location*****
+15:44:31.668 [main] INFO  factory.BaseClass - *****Selecting specialist*****
+15:45:17.078 [main] INFO  factory.BaseClass - *****Applying various filters*****
+15:46:41.836 [main] INFO  factory.BaseClass - *****Prints the doctor details*****
+15:46:56.968 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+15:46:56.992 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+15:47:59.078 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+15:47:59.090 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+15:48:58.657 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+15:48:58.681 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+15:49:58.240 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+15:49:58.263 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+15:50:57.834 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+15:50:57.859 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+15:53:37.008 [main] INFO  factory.BaseClass - *****clicking on surgery button*****
+15:53:41.842 [main] INFO  factory.BaseClass - *****Printing surgerylist*****
+15:54:32.823 [main] INFO  factory.BaseClass - *****Clearing the default location*****
+15:54:34.940 [main] INFO  factory.BaseClass - *****Passing location*****
+15:54:40.169 [main] INFO  factory.BaseClass - *****Selecting specialist*****
+15:55:25.346 [main] INFO  factory.BaseClass - *****Applying various filters*****
+15:56:50.265 [main] INFO  factory.BaseClass - *****Prints the doctor details*****
+15:57:05.401 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+15:57:05.438 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+16:21:41.372 [main] INFO  factory.BaseClass - *****Clearing the default location*****
+16:21:43.509 [main] INFO  factory.BaseClass - *****Passing location*****
+16:21:48.727 [main] INFO  factory.BaseClass - *****Selecting specialist*****
+16:22:34.311 [main] INFO  factory.BaseClass - *****Applying various filters*****
+16:23:59.475 [main] INFO  factory.BaseClass - *****Prints the doctor details*****
+16:24:14.618 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:24:14.644 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+16:25:16.925 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:25:16.950 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+16:27:02.722 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:27:02.747 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+16:28:03.283 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:28:03.318 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+16:29:03.924 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:29:03.951 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+16:40:01.658 [main] INFO  factory.BaseClass - *****Clearing the default location*****
+16:40:03.804 [main] INFO  factory.BaseClass - *****Passing location*****
+16:40:09.046 [main] INFO  factory.BaseClass - *****Selecting specialist*****
+16:40:35.286 [main] INFO  factory.BaseClass - *****Applying various filters*****
+16:40:47.145 [main] INFO  factory.BaseClass - *****Prints the doctor details*****
+16:40:53.277 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:40:53.302 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+16:41:33.819 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:41:33.845 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+16:42:14.486 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:42:14.510 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
+16:42:54.971 [main] INFO  factory.BaseClass - ***** Getting the Window Handles *****
+16:42:54.999 [main] INFO  factory.BaseClass - ***** Getting the first five doctor details *****
